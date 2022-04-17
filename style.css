@@ -1,0 +1,26 @@
+button{
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    width: 300px;
+    height: 40px;
+    background-color: #b600b6;
+    color: white;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #b436b4;
+}
+img{
+    width: 120px;
+    border-radius: 50%;
+}
+.links{
+    background-color: #000000cc;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    padding: 50px;
+    align-items: center;
+    border-radius: 3px;
+}
